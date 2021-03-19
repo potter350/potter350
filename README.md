@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @potter350
+- 👋 Hi, I’m @potter350 (Pandiyan.D)
 - 👀 I’m interested in ...as a JavaScript Developer
 - 🌱 I’m currently learning ..."AWS"
 - 💞️ I’m looking to collaborate on ..."community to explore creatity and life balancing"
