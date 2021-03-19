@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @potter350
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ...as a JavaScript Developer
+- 🌱 I’m currently learning ..."AWS"
+- 💞️ I’m looking to collaborate on ..."community to explore creatity and life balancing"
 - 📫 How to reach me ..."pandiyanpotter@gmail.com"
 
 <!---
