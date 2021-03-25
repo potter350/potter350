@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...as a JavaScript Developer
 - 🌱 I’m currently learning ..."AWS"
 - 💞️ I’m looking to collaborate on ..."community to explore creatity and life balancing"
-- 📫 How to reach me ..."pandiyanpotter@gmail.com"
+- 📫 How to reach me ..."iamdpandiyan@gmail.com"
 
 <!---
 potter350/potter350 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
